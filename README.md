@@ -3,8 +3,12 @@
 </p>
 
 
+
 <h1 align="center">Hi 👋, I'm Charan S Gowda</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from Bangalore</h3>
+
+[![@charan_2308's Holopin board](https://holopin.me/charan_2308)](https://holopin.io/@charan_2308)
+
 
 - 📫 How to reach me **charansgowda23@gmail.com**
 
