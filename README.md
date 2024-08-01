@@ -6,9 +6,9 @@
 <h3 align="center">A passionate Computer Science Engineering Student from Bangalore</h3>
 
 <p align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=tIMES&weight=500&size=50&duration=2500&pause=1500&color=C6FFBA&center=true&width=500&height=100&lines=CLOUD+COMPUTING;BIG+DATA;FULL+STACK+DEV" alt="Typing SVG" /></a>
 </p>
+
 [![@charan_2308's Holopin board](https://holopin.me/charan_2308)](https://holopin.io/@charan_2308)
 
 
