@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Kannada&weight=700&pause=1000&color=8BA3EA&center=true&width=435&lines=Charan+S+Gowda;%E0%B2%9A%E0%B2%B0%E0%B2%A3%E0%B3%8D+.+%E0%B2%8E%E0%B2%B8%E0%B3%8D+.+%E0%B2%97%E0%B3%8C%E0%B2%A1" alt="Typing SVG" /></a>
 </p>
+
 [![@charan_2308's Holopin board](https://holopin.me/charan_2308)](https://holopin.io/@charan_2308)
 ![Snake animation](https://github.com/charan2308/charan2308/blob/output/github-contribution-grid-snake.svg)
 - 👋 Hi, I’m @charan2308
